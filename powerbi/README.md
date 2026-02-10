@@ -35,4 +35,25 @@ All KPIs are analyzed year-over-year (YoY).
 - Business-oriented data visualization
 - Analytical thinking and data storytelling
 
-> Screenshots of the dashboard pages are included in this folder.
+---
+
+## Dashboard Screenshots
+
+### 1. Business Overview – Key KPIs
+![Business Overview](screenshots/01_overview_kpis.png)
+
+This page provides a high-level overview of business performance, including revenue, profit, margin, VAT, and units sold, with year-over-year comparison.
+
+---
+
+### 2. Why Did Results Change? – Price vs Quantity Analysis
+![Price vs Quantity](screenshots/02_price_vs_quantity.png)
+
+This analysis explains performance changes by separating price and quantity effects and identifying categories where volume decline was the main driver.
+
+---
+
+### 3. Where Did Changes Occur? – Store & Customer Segment Impact
+![Store and Segment Impact](screenshots/03_store_and_segment_impact.png)
+
+This page highlights which store locations and customer segments (age and gender groups) had the largest impact on overall performance.
